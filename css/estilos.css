@@ -24,9 +24,12 @@ body{
 
 #menu a {
     font-size: 18px;
-    font-weight: bold;
-    color: #3f3f3f;
+   
+}
 
+#menu a:hover {
+
+    color:#f8e12d;
 }
 
 #menu button{
@@ -185,6 +188,10 @@ footer a i:hover {
     .wrapper {
         width: 90%;
         margin: auto;
+        padding-top: 50px;
+    }
+
+    .mapa {
         padding-top: 50px;
     }
 }
