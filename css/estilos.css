@@ -22,6 +22,17 @@ body{
 
 /*Estilos Menu-Navbar*/
 
+#menu{
+    opacity: 0.75;
+}
+
+#menu:hover{
+
+    opacity: 1;
+    border: solid 2px black;
+
+}
+
 #menu a {
     font-size: 18px;
    
@@ -30,6 +41,7 @@ body{
 #menu a:hover {
 
     color:#f8e12d;
+    
 }
 
 #menu button{
