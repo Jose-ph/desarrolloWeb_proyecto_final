@@ -41,6 +41,7 @@ body{
 .carousel-inner{
 
     max-height: 39rem;
+    min-height: 269.7px;
 
 }
 
