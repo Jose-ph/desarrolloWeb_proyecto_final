@@ -156,7 +156,7 @@ footer a i:hover {
 
 
 
-/*Estilos para pantalla 768px*/
+/*Estilos para pantalla 768px  -- MEDIANA*/
 
 @media (max-width:768px){
 
@@ -189,7 +189,7 @@ footer a i:hover {
 }
 
 
-/* Estilos para pantalla 576px*/
+/* Estilos para pantalla 576px  -- PEQUEÑA*/
 
 @media(max-width: 576px){
 
