@@ -202,6 +202,10 @@ footer a i:hover {
     #nosotros p {
         display: none;
     }
+
+    #formateo{
+        width: 100vw !important;
+    }
 }
 
 /* Estilos para desktop*/
