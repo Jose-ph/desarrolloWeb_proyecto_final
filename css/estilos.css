@@ -177,6 +177,15 @@ footer a i:hover {
     width: 50%;
 }
 
+
+
+#headerPrincipal {
+
+    margin: 0%;
+    padding: 0%;
+   
+}
+
 /*Estilos para pantalla 768px  -- MEDIANA*/
 
 @media (max-width:768px){
@@ -206,8 +215,18 @@ footer a i:hover {
         top:-110px;
     
     }
+
+    .imgVideo{
+
+        position:absolute;
+        top: 25%;
+        width: 50%;
+    }
      
-   
+    #headerPrincipal{
+        display: none;
+    }
+
 
    
 }
@@ -232,6 +251,18 @@ footer a i:hover {
     #formateo{
         width: 100vw !important;
     }
+
+    .imgVideo{
+
+        position:absolute;
+        top: 25%;
+        width: 50%;
+    }
+
+    #headerPrincipal{
+        display: none;
+    }
+
 
 }
 
