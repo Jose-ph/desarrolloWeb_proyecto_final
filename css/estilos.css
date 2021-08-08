@@ -3,6 +3,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+/*Agrega letra Roboto google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
 
 /*Agrega reset*/
@@ -22,7 +24,9 @@
 
 body{
     
-    /*font-family: 'Pacifico', cursive;*/
+    /* font-family: 'Pacifico', cursive; */
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
     
     overflow-x: hidden;
     
@@ -192,6 +196,16 @@ footer a i:hover {
     margin: 0%;
     padding: 0%;
    
+}
+
+
+/*Estilos seccion servicios*/
+
+#fila-servicios h3{
+
+    text-decoration: underline;
+    
+    
 }
 
 
